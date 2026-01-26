@@ -2,3 +2,5 @@
 hello world
 344 ch1 intro
 hello world
+
+This is document for EGCO344 application
